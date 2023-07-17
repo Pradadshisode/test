@@ -1,1 +1,2 @@
 GitHub is a web-based platform that provides version control for software development projects. It offers a hosting service for Git repositories and various collaboration features for developers and teams. Here's some key information about GitHub:
+Version Control: GitHub is built on top of Git, a distributed version control system. It allows developers to track changes to their codebase, collaborate with others, and manage different versions of their projects.
